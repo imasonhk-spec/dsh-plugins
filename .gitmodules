@@ -1,0 +1,9 @@
+[submodule "plugins/dsh-raganything-kb"]
+	path = plugins/dsh-raganything-kb
+	url = https://github.com/imasonhk-spec/dsh-raganything-kb.git
+[submodule "plugins/dsh-multi-user"]
+	path = plugins/dsh-multi-user
+	url = https://github.com/imasonhk-spec/dsh-multi-user.git
+[submodule "docs/roadmap"]
+	path = docs/roadmap
+	url = https://github.com/imasonhk-spec/dsh-plugins-roadmap.git
